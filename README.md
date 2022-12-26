@@ -17,7 +17,7 @@ Public schools score significantly lower in math on average.
 
 Upperclassmen (11th and 12th graders) are, on average, scoring lower than the full school averages for reading and math.
 
-
+![Math and reading scores](/Resources/reading_math_scores.png)
 ![Math scores](/Resources/math_scores.png)
 
 ## School budgets
